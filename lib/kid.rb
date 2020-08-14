@@ -10,3 +10,7 @@ require_relative './class_methods_module.rb'
  extend MetaDancing
  end 
 end
+
+class Kid 
+  extend MetaDancing
+end 
